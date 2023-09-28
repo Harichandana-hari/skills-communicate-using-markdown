@@ -4,3 +4,5 @@
 ##### H5 header
 
 Typed different sentences in different headers
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
